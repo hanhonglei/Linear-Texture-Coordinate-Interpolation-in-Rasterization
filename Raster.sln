@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Raster", "TestScrollOpengl.vcxproj", "{082798A7-DFE9-4580-9C38-CFD006691BF9}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/TestScrollOpengl.root/TestScrollOpengl\u0022,\u0020VCCAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectUniqueName1 = TestScrollOpengl.vcxproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{082798A7-DFE9-4580-9C38-CFD006691BF9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{082798A7-DFE9-4580-9C38-CFD006691BF9}.Debug|Win32.Build.0 = Debug|Win32
+		{082798A7-DFE9-4580-9C38-CFD006691BF9}.Release|Win32.ActiveCfg = Release|Win32
+		{082798A7-DFE9-4580-9C38-CFD006691BF9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
