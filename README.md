@@ -25,3 +25,7 @@ You can also find the information of this paper in the `publications` page [here
 8. 增加了调整纹理坐标精度的选项，可以调整保留到纹理坐标小数点后几位。
 
 9. 程序退出后，会在当前文件夹下生成`OutPut.txt`文件，里面保存了各种栅格化算法的统计数据。
+
+----
+
+- This project is under [GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/), please check it in the root folder.
